@@ -1,1 +1,1 @@
-# react-invites
+- [Demo](https://nikita-biriukov.github.io/react-invites/)
